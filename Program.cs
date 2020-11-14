@@ -104,7 +104,7 @@ namespace Inlamning_2_ra_kod
                 }
             } while (command != "sluta");
         }
-        /* METHOD: Load (static)
+        /* METHOD: Load (static) 
          * PURPOSE: Loads data from the file and adds it to a list
          * PARAMETERS: None
          * RETURN VALUE: List<Person> Dict - List with data from file
